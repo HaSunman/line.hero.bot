@@ -1,0 +1,2 @@
+# line.hero.bot
+bot
